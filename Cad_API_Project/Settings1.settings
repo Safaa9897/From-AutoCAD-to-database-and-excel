@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Cad_API_Project" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnStr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=.;Database=CAD_API_DB;Trusted_Connection=True;</Value>
+    </Setting>
+    <Setting Name="connstrPC" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=.;Database=CAD_API_DB;User Id=sa;Password=agh3967;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
